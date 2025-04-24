@@ -15,11 +15,9 @@ Beyond backend development, I also love challenging myself with front-end design
 
 ## 📚 Projects
 My portfolio showcases a diverse range of projects that reflect my growth and journey:
-- [**TANAW: The Album of Now and Wonders (Web)**](https://github.com/DanielleZiac/TANAW)
-- [**TANAW: The Album of Now and Wonders (Android)**](https://github.com/DanielleZiac/TANAW-Android)
+- [**TANAW: The Album of Now and Wonders (Web)**](https://github.com/DanielleZiac/TANAW) [**(Android)**](https://github.com/DanielleZiac/TANAW-Android)
     - A social web app that promotes engagement with the UN's Sustainable Development Goals (SDGs).
-- [**WiiStickers**](https://github.com/DanielleZiac/WiiStickers)
-- [**WiiStickers (Web)**](https://github.com/DanielleZiac/WiiStickers-web)
+- [**WiiStickers (Desktop)**](https://github.com/DanielleZiac/WiiStickers) [**(Web)**](https://github.com/DanielleZiac/WiiStickers-web)
     - A stickerbooth app that includes computer vision and promotes SDGs.
 - [**ACICStanceCorner**](https://github.com/DanielleZiac/ACICStanceCorner)
     - A user-friendly app for CICS Student Services, managing transactions, inventory, requests, and student info.
