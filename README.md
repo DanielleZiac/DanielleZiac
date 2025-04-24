@@ -17,18 +17,18 @@ Beyond backend development, I also love challenging myself with front-end design
 My portfolio showcases a diverse range of projects that reflect my growth and journey:
 - [**TANAW: The Album of Now and Wonders (Web)**](https://github.com/DanielleZiac/TANAW)
 - [**TANAW: The Album of Now and Wonders (Android)**](https://github.com/DanielleZiac/TANAW-Android)
-  A social web app that promotes engagement with the UN's Sustainable Development Goals (SDGs).
+    - A social web app that promotes engagement with the UN's Sustainable Development Goals (SDGs).
 - [**WiiStickers**](https://github.com/DanielleZiac/WiiStickers)
 - [**WiiStickers (Web)**](https://github.com/DanielleZiac/WiiStickers-web)
-  A stickerbooth app that includes computer vision and promotes SDGs.
+    - A stickerbooth app that includes computer vision and promotes SDGs.
 - [**ACICStanceCorner**](https://github.com/DanielleZiac/ACICStanceCorner)
-  A user-friendly app for CICS Student Services, managing transactions, inventory, requests, and student info.
+    - A user-friendly app for CICS Student Services, managing transactions, inventory, requests, and student info.
 - [**Tasks-Manager**](https://github.com/DanielleZiac/Tasks-Manager)
-  A command-line Task Manager that efficiently organizes and tracks tasks using linked lists.
+    - A command-line Task Manager that efficiently organizes and tracks tasks using linked lists.
 - [**SparkMap**](https://github.com/DanielleZiac/SparkMap)
-  An electricity consumption mapping system prototype using Arduino sensors and real-time data visualization to promote efficient energy use.
+    - An electricity consumption mapping system prototype using Arduino sensors and real-time data visualization to promote efficient energy use.
 - [**SecurePass Vault**](https://github.com/JaronLouise/Password_Management)
-  A privacy-focused password management system with USB-based syncing and TOTP-based multi-factor authentication.
+    - A privacy-focused password management system with USB-based syncing and TOTP-based multi-factor authentication.
 
 ## 💡 Career Vision
 I see myself thriving cross-platform app and web development that are as beautiful as they are useful. I also geek out over data analytics to uncover patterns and insights to create solutions that aren’t just functional—but informed, refined, and relevant.
